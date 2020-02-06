@@ -7,6 +7,9 @@
 
 #### WebSocket
 - WebSocket 实现的简单客户端与服务端的对话
-- WebSocket + koa2 实现的多人在线聊天(有待优化)
+- WebSocket + koa2 实现的多人在线聊天(有待优化,如添加功能，重构为新版本等)
 
+`npm install` 安装依赖
+`npm start` 运行服务器
+浏览器输入指定的端口即可
 
